@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi Hey there! 👋 I'm a passionate programming enthusiast and a dedicated learner in the field of technology.
 
-<!--
-**NathanNievas/NathanNievas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Currently, I'm focused on honing my skills in HTML, CSS, JavaScript, and Python, with a particular interest in front-end development. My ultimate goal is to become a full stack developer.
 
-Here are some ideas to get you started:
+🎓 I'm currently studying Analysis and Systems Development to further enhance my technical abilities and prepare myself for future challenges in the tech industry. I believe in the importance of continuous education to stay updated with the latest trends and advancements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact Me
+📫 Feel free to reach out to me if you're interested in collaborating on exciting projects or discussing technology. Let's build something amazing together! 😄
+
+Get in Touch
+📧 Email: nathannievas@gmail.com
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/nathan-nievas-a0159b190/)
+
+
+Thanks for stopping by! 🙌
